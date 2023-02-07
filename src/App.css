@@ -3,11 +3,13 @@
   transition: 0.3s ease all;
   box-sizing: border-box;
   overflow-x: hidden;
-  
+  font-size: 20px;
+  font-weight: 700;
 }
 
 h1 {
   color: #fff;
+  font-size: 25px;
   text-align: center;
 }
 
@@ -39,7 +41,6 @@ main{
 
 label {
  color: #fff;
- font-weight: 500;
 }
 
 select {
@@ -51,7 +52,6 @@ select {
   min-width: 100%;
   max-width: max-content;
   padding: 5px 15px;
-  padding-top: 0.7rem;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: #242235;
   font-style: normal;
@@ -72,7 +72,6 @@ select {
   min-width: 100%;
   max-width: max-content;
   padding: 5px 15px;
-  padding-top: 0.7rem;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: #242235;
   font-style: normal;
